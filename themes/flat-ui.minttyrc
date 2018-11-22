@@ -1,0 +1,20 @@
+# FLAT UI
+ForegroundColour=236,240,241
+BackgroundColour=29,31,33
+CursorColour=211,84,0
+Black=44,62,80
+BoldBlack=52,73,94
+Red=192,57,43
+BoldRed=231,76,60
+Green=39,174,96
+BoldGreen=46,204,113
+Yellow=243,156,18
+BoldYellow=241,196,15
+Blue=41,128,185
+BoldBlue=52,152,219
+Magenta=142,68,173
+BoldMagenta=155,89,182
+Cyan=22,160,133
+BoldCyan=26,188,156
+White=189,195,199
+BoldWhite=236,240,241
