@@ -1,0 +1,20 @@
+#FLAT UI German
+ForegroundColour=223,228,234
+BackgroundColour=29,31,33
+CursorColour=250,130,49
+Black=75,101,132
+BoldBlack=119,140,163
+Red=235,59,90
+BoldRed=252,92,101
+Green=32,191,107
+BoldGreen=38,222,129
+Yellow=247,183,49
+BoldYellow=254,211,48
+Blue=56,103,214
+BoldBlue=75,123,236
+Magenta=136,84,208
+BoldMagenta=165,94,234
+Cyan=15,185,177
+BoldCyan=43,203,186
+White=223,228,234
+BoldWhite=241,242,246

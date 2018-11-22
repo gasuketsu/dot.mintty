@@ -1,0 +1,20 @@
+#FLAT UI Aussie
+ForegroundColour=223,249,251
+BackgroundColour=29,31,33
+CursorColour=240,147,43
+Black=19,15,64
+BoldBlack=48,51,107
+Red=235,77,75
+BoldRed=255,121,121
+Green=106,176,76
+BoldGreen=186,220,88
+Yellow=249,202,36
+BoldYellow=246,229,141
+Blue=72,52,212
+BoldBlue=104,109,224
+Magenta=190,46,221
+BoldMagenta=224,86,253
+Cyan=34,166,179
+BoldCyan=126,214,223
+White=199,236,238
+BoldWhite=223,249,251

@@ -1,0 +1,20 @@
+#FLAT UI Canadian
+ForegroundColour=200,214,229
+BackgroundColour=29,31,33
+CursorColour=211,84,0
+Black=34,47,62
+BoldBlack=87,101,116
+Red=238,82,83
+BoldRed=255,107,107
+Green=16,172,132
+BoldGreen=29,209,161
+Yellow=255,159,67
+BoldYellow=254,202,87
+Blue=52,31,151
+BoldBlue=95,39,205
+Magenta=243,104,224
+BoldMagenta=255,159,243
+Cyan=10,189,227
+BoldCyan=72,219,251
+White=131,149,167
+BoldWhite=200,214,229
