@@ -1,0 +1,20 @@
+# Material 600
+ForegroundColour=236,239,241
+BackgroundColour=33,33,33
+CursorColour=244,81,30
+Black=38,50,56
+BoldBlack=55,71,79
+Red=244,67,54
+BoldRed=239,83,80
+Green=67,160,71
+BoldGreen=102,187,106
+Yellow=255,179,0
+BoldYellow=255,202,40
+Blue=57,73,171
+BoldBlue=92,107,192
+Magenta=142,36,170
+BoldMagenta=171,71,188
+Cyan=0,172,193
+BoldCyan=38,198,218
+White=207,216,220
+BoldWhite=236,239,241
