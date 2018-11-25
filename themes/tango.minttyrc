@@ -1,10 +1,10 @@
-ForegroundColour=211,215,207
-BackgroundColour=36,52.54
+ForegroundColour=197,200,198
+BackgroundColour=29,31,33
 Black=36,52,54
 BoldBlack=85,87,83
 Red=204,0,0
 BoldRed=239,41,41
-Green=115,210,22
+Green=78,154,6
 BoldGreen=138,226,52
 Yellow=196,160,0
 BoldYellow=252,233,79
@@ -16,4 +16,3 @@ Cyan=6,152,154
 BoldCyan=52,226,226
 White=211,215,207
 BoldWhite=238,238,236
-
