@@ -1,5 +1,5 @@
 # Material
-ForegroundColour=207,216,220
+ForegroundColour=#b3b8c3
 BackgroundColour=33,33,33
 CursorColour=255,138,101
 Black=38,50,56
@@ -17,4 +17,4 @@ BoldMagenta=186,104,200
 Cyan=0,188,212
 BoldCyan=77,208,225
 White=224,224,224
-BoldWhite=245,245,245
+BoldWhite=224,224,224
