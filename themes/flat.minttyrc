@@ -1,0 +1,22 @@
+# Flat from Gogh
+# https://github.com/Mayccoll/Gogh/blob/master/themes/flat.sh
+Black=#2c3e50
+Red=#c0392b
+Green=#27ae60
+Yellow=#f39c12
+Blue=#2980b9
+Magenta=#8e44ad
+Cyan=#16a085
+White=#bdc3c7
+BoldBlack=#34495e
+BoldRed=#e74c3c
+BoldGreen=#2ecc71
+BoldYellow=#f1c40f
+BoldBlue=#3498db
+BoldMagenta=#9b59b6
+BoldCyan=#2AA198
+BoldWhite=#ecf0f1
+
+BackgroundColour=#1f2d3a
+ForegroundColour=#1abc9c
+CursorColour=#1abc9c
