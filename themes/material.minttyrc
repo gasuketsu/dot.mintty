@@ -1,19 +1,19 @@
 # Material
-Black=#263238
-Red=#f44336
-Green=#7cb342
-Yellow=#ffc107
-Blue=#3f51b5
+Black=#212121
+Red=#ef5350
+Green=#8bc34a
+Yellow=#ffca28
+Blue=#5c6bc0
 Magenta=#ab47bc
-Cyan=#00acc1
+Cyan=#26c6da
 White=#e0e0e0
-BoldBlack=#37474f
+BoldBlack=#424242
 BoldRed=#e57373
 BoldGreen=#9ccc65
 BoldYellow=#ffd54f
 BoldBlue=#7986cb
 BoldMagenta=#ba68c8
-BoldCyan=#26c6da
+BoldCyan=#4dd0e1
 BoldWhite=#e0e0e0
 
 BackgroundColour=#212121
