@@ -1,5 +1,5 @@
 # Material
-Black=#212121
+Black=#263238
 Red=#ef5350
 Green=#8bc34a
 Yellow=#ffca28
@@ -7,7 +7,7 @@ Blue=#5c6bc0
 Magenta=#ab47bc
 Cyan=#26c6da
 White=#e0e0e0
-BoldBlack=#424242
+BoldBlack=#37474f
 BoldRed=#e57373
 BoldGreen=#9ccc65
 BoldYellow=#ffd54f
@@ -16,6 +16,6 @@ BoldMagenta=#ba68c8
 BoldCyan=#4dd0e1
 BoldWhite=#e0e0e0
 
-BackgroundColour=#263238
-ForegroundColour=#b0bec5
+BackgroundColour=#212121
+ForegroundColour=#bdbdbd
 CursorColour=#ff8a65
