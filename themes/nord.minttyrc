@@ -1,7 +1,7 @@
-# Nord Mintty from https://github.com/arcticicestudio/nord-mintty
+# Based on Nord Mintty from https://github.com/arcticicestudio/nord-mintty
 BackgroundColour=46,52,64
 ForegroundColour=216,222,233
-CursorColour=216,222,233
+CursorColour=208,135,112
 Black=59,66,82
 BoldBlack=76,86,106
 Red=191,97,106
